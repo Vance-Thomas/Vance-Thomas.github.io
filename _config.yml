@@ -24,7 +24,7 @@ repository               : "Vance-Thomas/Vance-Thomas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/myprofile.png"
+  avatar           : "myprofile.png"
   name             : "Yong Tang（唐勇）"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate at Beihang University"
