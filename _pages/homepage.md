@@ -28,7 +28,7 @@ My research primarily focuses on **3D computer vision**, **intelligent measureme
 
 ## <i class="fas fa-file-alt fa-fw"></i> Publications {#publications}
 
-* **Deep Reinforcement Learning for Next-Best-Scan Planning in 3D Measurement** <br>
+<!-- * **Deep Reinforcement Learning for Next-Best-Scan Planning in 3D Measurement** <br>
   **Yong Tang**, Co-author A, Co-author B. <br>
   *Name of the Conference/Journal (会议/期刊全称)*, 2026. 
   [<i class="fas fa-file-pdf"></i> Paper](#) &nbsp; [<i class="fab fa-github"></i> Code](https://github.com/Vance-Thomas) &nbsp; [<i class="fas fa-video"></i> Video](#)
@@ -51,7 +51,7 @@ My research primarily focuses on **3D computer vision**, **intelligent measureme
 * **[Under Review] Physical Modeling and Error Field Analysis in Isaac Lab** <br>
   **Yong Tang**, Co-author A. <br>
   *Name of the Conference/Journal (会议/期刊全称)*, 2026. 
-  [<i class="fas fa-file-pdf"></i> arXiv](#) &nbsp; [<i class="fas fa-link"></i> Project Page](#)
+  [<i class="fas fa-file-pdf"></i> arXiv](#) &nbsp; [<i class="fas fa-link"></i> Project Page](#) -->
 
 ---
 
@@ -65,58 +65,55 @@ My research primarily focuses on **3D computer vision**, **intelligent measureme
 <div style="display: flex; align-items: center; margin-bottom: 16px;">
   <img src="/images/buaa-logo.png" style="width: 45px; height: 45px; margin-right: 15px; border-radius: 50%;">
   <div style="line-height: 1.6;">
-    <strong>2022.09 – Present</strong> Ph.D. in Artificial Intelligence,<br>
-    Beihang University (BUAA), Beijing, China.
+    <strong>2022.09 – Present</strong> Doctor of Engineering(PhD Candidate) in Artificial Intelligence,<br>
+    Institude of Artificial Intelligence, Beihang University (BUAA), Beijing, China.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 16px;">
   <img src="/images/ustb-logo.png" style="width: 45px; height: 45px; margin-right: 15px; border-radius: 50%;">
   <div style="line-height: 1.6;">
-    <strong>2018.09 – 2022.06</strong> B.S. in Automation,<br>
+    <strong>2018.09 – 2022.06</strong> Bachelor of Engineering in Automation,<br>
     University of Science and Technology Beijing (USTB), Beijing, China.
   </div>
 </div>
 
 ---
 
+## <i class="fas fa-briefcase fa-fw"></i> Work Experience {#work-experience}
+
+<!-- * **2027.06 – 2027.12** Algorithm Engineer Intern, **ByteDance**, Beijing, China.<br>
+  *Focused on 3D vision algorithms, and spatial computing optimization.*  -->
+  
+---
+
+## <i class="fas fa-user-tie fa-fw"></i> Professional Service {#professional-service}
+
+<!-- * **Reviewer:** * *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*
+  * *IEEE International Conference on Robotics and Automation (ICRA)*
+  * *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+* **Conference Volunteer:** * *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 202X* -->
+
+---
+
 ## <i class="fas fa-trophy fa-fw"></i> Honors & Awards {#honors-awards}
 
-### Scholarships & Academic Honors
 * **2022-2024**  First-Class Academic Excellence Scholarship, Beihang University.
-* **2023-2025**  Outstanding Communist Youth League Member, Beihang University.
+<!-- * **2023-2025**  Outstanding Communist Youth League Member, Beihang University. -->
 * **2022**  Ph.D. Freshman Scholarship, Beihang University (***Top4 in the School*** ).
 * **2022**  Nominee for the President's Medal, USTB (**校长奖章候选**，***Top15 in the University*** ).
 * **2022**  Dean's Medal of the School of Automation, USTB (**院长奖章**，***Top5 in the School*** ).
 * **2022**  Outstanding Graduate of Beijing (**北京市普通高等学校优秀毕业生**).
 * **2020**  China National Scholarship (**国家奖学金**).
-* **2019,2021**  China National Encouragement Scholarship.
-* **2019-2021**  Outstanding Merit Student, USTB.
+<!-- * **2019,2021**  China National Encouragement Scholarship. -->
 * **2022**  Outstanding Bachelor's Thesis, USTB.
-* **2021**  Liu Qin Scholarship - "Star of Science and Technology", USTB.
+* **2019-2021**  Outstanding Merit Student, USTB.
+<!-- * **2021**  Liu Qin Scholarship - "Star of Science and Technology", USTB. -->
 
-### Competitions
-<ul>
-  <li>
-    <div style="display: flex; align-items: flex-start;">
-      <strong style="flex-shrink: 0; margin-right: 8px;">2020</strong>
-      <div>National 2nd Prize & Beijing 1st Prize,<br>China Undergraduate Mathematical Contest in Modeling(CUMCM).</div>
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; align-items: flex-start;">
-      <strong style="flex-shrink: 0; margin-right: 8px;">2020</strong>
-      <div>Regional 1st Prize,<br>"BD Cup" China Adolescents Science & Technology Innovation Contest.</div>
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; align-items: flex-start;">
-      <strong style="flex-shrink: 0; margin-right: 8px;">2021</strong>
-      <div>Regional 1st Prize,<br>"Siemens Cup" China Intelligent Manufacturing Challenge.</div>
-    </div>
-  </li>
-</ul>
+* **2020** National 2nd Prize, **C**hina **U**ndergraduate **M**athematical **C**ontest in **M**odeling.
+* **2021** Regional 1st Prize, "Siemens Cup" China Intelligent Manufacturing Challenge.
 
+---
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0)); margin-top: 50px; margin-bottom: 30px;">
 
